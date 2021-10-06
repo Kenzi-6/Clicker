@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoneyClicker</string>
+    <string name="txt_students">Кол-во денег</string>
+    <string name="btn_students">+1$</string>
+</resources>
